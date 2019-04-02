@@ -8,9 +8,9 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Title</title>
+    <title>查看企业</title>
 </head>
 <body>
-
+<h1>并没有哦</h1>
 </body>
 </html>
